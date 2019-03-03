@@ -10,5 +10,9 @@ body{
     font-family:impact;
     font-size:100px;
     line-height:100px;
-    left:30px;
+  }
+
+  p2{
+    font-family:impact;
+    font-size:30px;
   }
