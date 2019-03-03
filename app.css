@@ -5,14 +5,20 @@ body{
   background-color:gray;
   background-repeat:no-repeat;
   background-position:center center;}
+#main{
+  max-width: 600px;
+  margin: 0 auto;
+}
 
   p1{
     font-family:serif;
     font-size:100px;
     line-height:100px;
+    text-indent:30px;
   }
 
   p{
     font-family:serif;
-    font-size:6px;
+    font-size:10px;
+    text-indent:30px;
   }
