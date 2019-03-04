@@ -13,12 +13,11 @@ body{
   p1{
     font-family:serif;
     font-size:100px;
-    line-height:100px;
     text-indent:1000px;
   }
 
   p{
     font-family:serif;
-    font-size:10px;
+    font-size:50px;
     text-indent:300px;
   }
