@@ -5,19 +5,22 @@ body{
   background-color:gray;
   background-repeat:no-repeat;
   background-position:center center;}
-#main{
-  max-width: 600px;
-  margin: 0 auto;
-}
 
-  p1{
+  .name{
     font-family:serif;
     font-size:100px;
-    text-indent:1000px;
-  }
-
-  p{
-    font-family:serif;
-    font-size:50px;
     text-indent:300px;
   }
+
+  .content{
+    font-family:serif;
+    font-size:20px;
+    text-indent:300px;
+  }
+
+  .korea{
+    font-family:serif;
+    font-size:18px;
+    text-indent:300px;
+  }
+
